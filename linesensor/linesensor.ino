@@ -1,4 +1,4 @@
- 
+//this code is for line foloowing robot usng ir sensor and arduino 
 #define LS 5      
 #define RS 2    
 
